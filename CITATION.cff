@@ -6,6 +6,7 @@ type: software
 authors:
   - family-names: Ray
     given-names: Samira
+    orcid: "https://orcid.org/0009-0006-6885-8400"
 version: 1.0.0
 doi: 10.5281/zenodo.23304464
 date-released: 2026-10-11

@@ -2,7 +2,17 @@
   "title": "PageKeeper",
   "description": "A full-stack digital library for tracking books with genre-aware rating systems.",
   "upload_type": "software",
-  "creators": [{ "name": "Ray, Samira" }],
+  "creators": [
+    {
+      "name": "Ray, Samira",
+      "orcid": "0009-0006-6885-8400"
+    }
+  ],
   "license": "MIT",
-  "keywords": ["react", "express", "typescript", "full-stack"]
+  "keywords": [
+    "react",
+    "express",
+    "typescript",
+    "full-stack"
+  ]
 }
