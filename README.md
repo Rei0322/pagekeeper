@@ -1,5 +1,7 @@
 # PageKeeper
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23304464.svg)](https://doi.org/10.5281/zenodo.23304464)
+
 A full-stack digital library for tracking books across a reading lifecycle — wishlist, reading, finished, and DNF — with genre-aware rating systems.
 
 **Live demo:** https://pagekeeper.pplx.app
@@ -46,6 +48,10 @@ npm start
 ## Author
 
 Samira Ray — [GitHub](https://github.com/Rei0322) · [LinkedIn](https://www.linkedin.com/in/samira-ray-44a58714a/)
+
+## Citation
+
+If you use this software, please cite it using the DOI [10.5281/zenodo.23304464](https://doi.org/10.5281/zenodo.23304464) (all versions) or [10.5281/zenodo.23304465](https://doi.org/10.5281/zenodo.23304465) (v1.0.0). Citation metadata is also in [CITATION.cff](CITATION.cff).
 
 ## License
 

@@ -7,6 +7,7 @@ authors:
   - family-names: Ray
     given-names: Samira
 version: 1.0.0
+doi: 10.5281/zenodo.23304464
 date-released: 2026-10-11
 license: MIT
 repository-code: "https://github.com/Rei0322/pagekeeper"
